@@ -1,0 +1,2 @@
+# StraussShop
+Mobile App 
