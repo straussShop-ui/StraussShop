@@ -1,2 +1,2 @@
-# StraussShop
+# Thestrauss
 Mobile App 
